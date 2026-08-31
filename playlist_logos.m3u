@@ -1,0 +1,113 @@
+#EXTM3U
+
+# ===== Portugal =====
+#EXTINF:-1 group-title="Portugal",RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Portugal",RTP 2
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Portugal",RTP 3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Portugal",RTP Mundo
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
+
+#EXTINF:-1 group-title="Portugal",TVI
+https://video-auth5.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720p/chunks.m3u8?nimblesessionid=3075925&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDI2IDQ6Nzo1OCBQTSZoYXNoX3ZhbHVlPVVMeWw0K3g5K2VRUW1IMVJjc0NtRWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xMjU0Zjc0OS02YzBlLTRlYmItOTUzZC04MjE1YjQzZGEyMWY=
+
+#EXTINF:-1 group-title="Portugal",CNN Portugal
+https://video-auth8.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=896526048&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI2IDU6Mjk6MSBQTSZoYXNoX3ZhbHVlPS9raXRwUmZuekp6WWZBamlKZXRtaWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wZWFlZTAzYi1kMzZkLTQ3ZjAtYWI5Yi0yM2JmMDBjZDY5YjY=
+
+#EXTINF:-1 group-title="Portugal",TVI Ficção
+https://video-auth7.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDI2IDExOjUyOjIzIEFNJmhhc2hfdmFsdWU9NCs0a0ZhK25vY2NZaXJpQ2wvTGxXQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTgzMzAwNzIzLTAzYzQtNDBlMS05M2M1LWEwYjBkM2M4YjgyYw==
+
+#EXTINF:-1 group-title="Portugal",V+ TVI
+https://video-auth7.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDI2IDExOjUyOjIzIEFNJmhhc2hfdmFsdWU9NCs0a0ZhK25vY2NZaXJpQ2wvTGxXQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTgzMzAwNzIzLTAzYzQtNDBlMS05M2M1LWEwYjBkM2M4YjgyYw==
+
+#EXTINF:-1 group-title="Portugal",TVI Internacional
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDI2IDQ6Nzo1OCBQTSZoYXNoX3ZhbHVlPVVMeWw0K3g5K2VRUW1IMVJjc0NtRWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xMjU0Zjc0OS02YzBlLTRlYmItOTUzZC04MjE1YjQzZGEyMWY=
+
+
+# ===== Deutschland =====
+#EXTINF:-1 group-title="Deutschland",ARD DAS ERSTE
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master1080p5000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/ZDF_logo.svg/512px-ZDF_logo.svg.png" group-title="Deutschland",ZDF HD
+https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="Deutschland",RTL HD
+
+
+#EXTINF:-1 group-title="Deutschland",VOX HD
+https://s6.hopslan.com/voxz/index.m3u8
+
+#EXTINF:-1 group-title="Deutschland",RTL NITRO HD
+https://s6.hopslan.com/nitro1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Deutschland",3 SAT HD
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Arte_logo.svg/512px-Arte_logo.svg.png" group-title="Deutschland",ARTE HD
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="Deutschland",PRO SIEBEN HD
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="Deutschland",KABEL EINS HD (IN BEARBEITUNG)
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="Deutschland",RTL UP HD
+
+
+#EXTINF:-1 group-title="Deutschland",VOX UP HD
+
+
+#EXTINF:-1 group-title="Deutschland",KIKA HD
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="Deutschland",CARTOON NETWORK HD
+
+
+#EXTINF:-1 group-title="Deutschland",TOGGO PLUS HD
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Super_RTL_Logo.svg/512px-Super_RTL_Logo.svg.png" group-title="Deutschland",SUPER RTL HD
+https://s6.hopslan.com/superX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney_Channel_logo.svg/512px-Disney_Channel_logo.svg.png" group-title="Deutschland",DISNEY CHANNEL HD
+https://s6.hopslan.com/disneyX/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="Deutschland",SIXX HD
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="Deutschland",SAT.1 GOLD HD
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Sat.1_logo.svg/512px-Sat.1_logo.svg.png" group-title="Deutschland",SAT 1 HD
+https://s6.hopslan.com/sat1z/index.m3u8
+
+#EXTINF:-1 group-title="Deutschland",PRO SIEBEN MAXX HD
+https://s6.hopslan.com/pro7maxxX/index.m3u8
+
+#EXTINF:-1 group-title="Deutschland",
+
+
+#EXTINF:-1 group-title="Deutschland",
+
+
+#EXTINF:-1 group-title="Deutschland",
+
+
+
+
+
+# ===== Frankreich =====
+#EXTINF:-1 group-title="Frankreich",TF1
+https://alive-tf1-hls-ssai.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI4OS45Mi4xMTYuNDkiLCJjbWNkIjoiIiwiZXhwIjoxNzg4MDUyMjMzLCJnaWQiOiJiYjIxYzNkN2U0Y2Q0ODllYWNlYWNhZDE0MmI5YTViZSIsImlhdCI6MTc4ODAzNzgzMywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL3Byb2QvVEYxL2NtYWYtc3NhaS9vdXQiLCJzdWIiOiJiYjIxYzNkN2U0Y2Q0ODllYWNlYWNhZDE0MmI5YTViZSJ9.sLMX8ck1s8P5Kq5q7ULRKwnbleku_kS_crh8zVoYbxo/prod/TF1/cmaf-ssai/out/TF1-avc1_2499968=10002.m3u8?bpkio_serviceid=9023effe3c16b047fda6d28aa3c55478&bpkio_sessionid=10b0b183d98-77f21d2c-238e-4840-ba92-3ff01886a5cb&category=all&gdpr=1&gdpr_consent=CQptUoAQptUoAAHABBENCtFsAP_gAAAAAAqILBwMYAFAAYABAACsAFwAZABAACcAFoAMgAaABMACcAFsAMIAcwA7gB-AEAAIQATgAuABxgDuAIQARMAi0BHAEdAKyAV4AxQBnADQAHEAREAiYBSwC6gF5gMBAYsAxkBlgD2QH1AP7AgCBGYCOwFSwLBgAAAGKQAYAAgzEOgAwABBmIhABgACDMRKADAAEGYgkAGAAIMxFoAMAAQZiAAA.ILBwMYAFAAYABAACsAFwAZABAACcAFoAMgAaABMACcAFsAMIAcwA7gB-AEAAIQATgAuABxgDuAIQARMAi0BHAEdAKyAV4AxQBnADQAHEAREAiYBSwC6gF5gMBAYsAxkBlgD2QH1AP7AgCBGYCOwFSwLBgAAA.f_wAAAAAAAAA&mm_sp&player_browser=edge&player_device=desktop&player_jwt=eyJhbGciOiJFUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJhYlRlc3QiOnt9LCJleHAiOjE3ODgwODEwMjIsImZjZmEiOjAsImZ0Ijp7fSwiaWF0IjoxNzg4MDM3ODIyLCJpZGQiOjAsImlzcyI6ImdpZ3lhIiwibHZsIjoxLCJtc2NiIjpmYWxzZSwibm9BdWRpZW5jZSI6ZmFsc2UsIm5vQ3VzdG9taXphdGlvbiI6ZmFsc2UsIm5vUHJvZmlsaW5nIjpmYWxzZSwicGx0Ijoid2ViIiwic2lkIjoiYmZiZTMzZjEtODNmZi00OGFhLTlkNWYtZjc4OTU2YmU2ZDZlIiwic3ViIjoiYmIyMWMzZDdlNGNkNDg5ZWFjZWFjYWQxNDJiOWE1YmUifQ.WI1ttBrrU-k3o892XxT2Y3xsGAgcpoFErn6ip6evds1t5igvsohnxbZgFPOWVqirVZVQofgGPKriRj3NhHH7bw&player_os=windows&player_platform=web&player_playerVersion=8.7.2&player_productName=mytf1&sso_id=3f773e6b63f39e2f444ecc9fc9f16b25e9f3dded4cd29dd484b9eafb257f07ab&tms_id=V1202682922360.30163148153854313
+
+#EXTINF:-1 group-title="Frankreich",France 2
+https://DEIN-STREAM
+
+#EXTINF:-1 group-title="Frankreich",M6
+https://DEIN-STREAM
